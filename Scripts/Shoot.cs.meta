@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b79d37216bcc5d841bcdc68fe3bb0497
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blueLaser: {fileID: 4318480472254027023, guid: ed9a59928ce51b44983c77b300a774d6, type: 3}
+  - redLaser: {fileID: 5295233589694515205, guid: bf59f06dd24c939498b7de1e708353c3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
